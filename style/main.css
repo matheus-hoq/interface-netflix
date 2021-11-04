@@ -101,6 +101,7 @@ heaer nav a:hover{
     height: 100%;
     width: 100%;
     display: block;
+    cursor: pointer;
 }
 
 .carrosel-filmes{
