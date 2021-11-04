@@ -13,7 +13,7 @@
 
 body{
     background: var(--preta);
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Arial', Times, serif;
     color: white;
 }
 
@@ -86,7 +86,7 @@ heaer nav a:hover{
 }
 
 .botao i{
-    margin-right: 5px;
+    margin-right: 8px;
 }
 
 .container {
@@ -101,4 +101,8 @@ heaer nav a:hover{
     height: 100%;
     width: 100%;
     display: block;
+}
+
+.carrosel-filmes{
+    margin-top: 5px;
 }
